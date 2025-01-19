@@ -1,0 +1,55 @@
+{
+  "customers": [
+    {
+      "customer_Id": 1,
+      "firstName": "Alice",
+      "lastName": "Briar",
+      "orders": [
+        {
+          "burger_Id": 1,
+          "burgerName": "Hamburger",
+          "price": 1.99
+        },
+        {
+          "burger_Id": 2,
+          "burgerName": "Cheeseburger",
+          "price": 2.99
+        }
+      ]
+    },
+    {
+      "customer_Id": 2,
+      "firstName": "Robert",
+      "lastName": "King",
+      "orders": [
+        {
+          "burger_Id": 3,
+          "burgerName": "Double Cheeseburger",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "customer_Id": 3,
+      "firstName": "Jessica",
+      "lastName": "Terrance",
+      "orders": [
+        {
+          "burger_Id": 1,
+          "burgerName": "Hamburger",
+          "price": 1.99
+        },
+        {
+          "burger_Id": 2,
+          "burgerName": "Cheeseburger",
+          "price": 2.99
+        },
+        {
+          "burger_Id": 4,
+          "burgerName": "Triple Cheeseburger",
+          "price": 5.99
+        }
+      ]
+    }
+  ]
+}
