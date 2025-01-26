@@ -1,0 +1,73 @@
+{
+  "viewers": [
+    {
+      "_id": "v1",
+      "firstName": "Robert",
+      "lastName": "King"
+    },
+    {
+      "_id": "v2",
+      "firstName": "Jesica",
+      "lastName": "Vannoy"
+    },
+    {
+      "_id": "v3",
+      "firstName": "Jason",
+      "lastName": "Talbert"
+    }
+  ],
+  "movies": [
+    {
+      "_id": "m1",
+      "movieName": "The Fifth Element",
+      "genre": "Science Fiction"
+    },
+    {
+      "_id": "m2",
+      "movieName": "Ready Player One",
+      "genre": "Science Fiction"
+    },
+    {
+      "_id": "m3",
+      "movieName": "Interstellar",
+      "genre": "Science Fiction"
+    },
+    {
+      "_id": "m4",
+      "movieName": "The Hobbit: An Unexpected Journey",
+      "genre": "Fantasy"
+    }
+  ],
+  "ratings": [
+    {
+      "_id": "r1",
+      "ratingScore": 9,
+      "viewerId": "v1",
+      "movieId": "m1"
+    },
+    {
+      "_id": "r2",
+      "ratingScore": 10,
+      "viewerId": "v2",
+      "movieId": "m4"
+    },
+    {
+      "_id": "r3",
+      "ratingScore": 9,
+      "viewerId": "v1",
+      "movieId": "m3"
+    },
+    {
+      "_id": "r4",
+      "ratingScore": 7,
+      "viewerId": "v3",
+      "movieId": "m4"
+    },
+    {
+      "_id": "r5",
+      "ratingScore": 8,
+      "viewerId": "v3",
+      "movieId": "m2"
+    }
+  ]
+}
