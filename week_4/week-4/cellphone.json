@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "_id": "u1",
+      "firstName": "Robert",
+      "lastName": "King",
+      "devices": [
+        {
+          "id": "d1",
+          "deviceName": "Galaxy SII",
+          "deviceType": "Cell Phone",
+          "charger": {
+            "_id": "c1",
+            "chargerType": "micro-USB",
+            "voltage": "1.65"
+          }
+        },
+        {
+        "id": "d2",
+          "deviceName": "Droid X2",
+          "deviceType": "Cell Phone",
+          "charger": {
+            "_id": "c2",
+            "chargerType": "micro-USB",
+            "voltage": "1.54"
+          }
+        }
+      ]
+    },
+    {
+      "_id": "u2",
+      "firstName": "Jesica",
+      "lastName": "Vannoy",
+      "devices": [
+        {
+          "id": "d3",
+          "deviceName": "My Touch Slide",
+          "deviceType": "Cell Phone",
+          "charger": {
+            "_id": "c2",
+            "chargerType": "micro-USB",
+            "voltage": "1.54"
+          }
+        },
+        {
+        "id": "d4",
+          "deviceName": "Galaxy SII Epic 4G Touch",
+          "deviceType": "Cell Phone",
+          "charger": {
+            "_id": "c3",
+            "chargerType": "micro-USB",
+            "voltage": "1.8"
+          }
+        }
+      ]
+    }
+  ]
+}
