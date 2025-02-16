@@ -1,8 +1,8 @@
 """
-Title:
-Author:
-Date:
-Description:
+Title: king_users1.py
+Author: Robert King
+Date: February 16, 2025
+Description: Python program that connects to MongoDB database and performs various operations.
 """
 #Install pymongo (pip -m pip install pymongo)
 #Import the MongoClient
